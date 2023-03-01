@@ -1,6 +1,6 @@
 Greetings human!
 
-Welcome to my humble abode on GitHub.
+Welcome to my GitHub.
 
 Before you dive into the madness, let me give you a few pointers:
 
