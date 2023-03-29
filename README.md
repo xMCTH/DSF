@@ -10,4 +10,4 @@ Before you start exploring, here are a few things you should know:
 
 So, what are you waiting for? Go ahead and have some fun exploring this repository. And don't forget to have a good laugh or two along the way. Cheers!
 
--Written by ChatGPT
+-Written with the help of ChatGPT
