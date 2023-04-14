@@ -14,4 +14,4 @@ So, what are you waiting for? Go ahead and have some fun exploring this reposito
 
 
 
-link to a [Sauhund](https://github.com/xMCTH/DSFMCTH) aka. my group partner ![pepega](https://user-images.githubusercontent.com/126336472/228591949-82de313b-6b61-4a05-a0e7-854200ab0593.png)
+link to a [Friendly Dude](https://github.com/xMCTH/DSFMCTH) aka. my group partner
